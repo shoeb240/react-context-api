@@ -1,6 +1,6 @@
-# React + Vite
+# React Context API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Implementing React Context API using both class and functional components to show use of context provider, context consumer, ContextType, useContext with easy example.
 
 Currently, two official plugins are available:
 
